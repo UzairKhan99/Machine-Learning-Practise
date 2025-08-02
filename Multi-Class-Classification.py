@@ -20,6 +20,7 @@ plt.ylabel("Count")
 plt.xticks(rotation=45)
 plt.show()
 
+
 print(data.isnull().sum())
 
 # Dataset summary
